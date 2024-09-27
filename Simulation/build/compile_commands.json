@@ -1,0 +1,80 @@
+[
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\File\\Console.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\File\\Console.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\File\\Console.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\File\\Console.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\File\\DataManager.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\File\\DataManager.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\File\\DataManager.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\File\\DataManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\File\\ICDataReader.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\File\\ICDataReader.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\File\\ICDataReader.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\File\\ICDataReader.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\Math\\kernel.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Math\\kernel.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Math\\kernel.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\Math\\kernel.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\Math\\mat4.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Math\\mat4.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Math\\mat4.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\Math\\mat4.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\Math\\random.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Math\\random.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Math\\random.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\Math\\random.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\Math\\vec3.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Math\\vec3.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Math\\vec3.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\Math\\vec3.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\Math\\vec4.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Math\\vec4.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Math\\vec4.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\Math\\vec4.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\Physics\\Simulation.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Physics\\Simulation.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Physics\\Simulation.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\Physics\\Simulation.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\Physics\\TimeIntegration.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Physics\\TimeIntegration.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Physics\\TimeIntegration.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\Physics\\TimeIntegration.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\Physics\\Tree\\Node.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Physics\\Tree\\Node.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Physics\\Tree\\Node.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\Physics\\Tree\\Node.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\Physics\\Tree\\Tree.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Physics\\Tree\\Tree.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\Physics\\Tree\\Tree.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\Physics\\Tree\\Tree.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/File -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Math -IC:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/src/Physics -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/External Libraries/fftw\" -g -std=gnu++17 -Wall -o CMakeFiles\\Astro_Genesis.dir\\src\\main.cpp.obj -c C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\main.cpp",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Simulation\\src\\main.cpp",
+  "output": "CMakeFiles\\Astro_Genesis.dir\\src\\main.cpp.obj"
+}
+]

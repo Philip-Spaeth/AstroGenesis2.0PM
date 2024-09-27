@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLM_ENABLE_EXPERIMENTAL -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLM/glm\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLFW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLEW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/src\" -g -std=gnu++17 -o CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\main.cpp.obj -c \"C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\main.cpp\"",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\main.cpp",
+  "output": "CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLM_ENABLE_EXPERIMENTAL -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLM/glm\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLFW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLEW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/src\" -g -std=gnu++17 -o CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\Engine.cpp.obj -c \"C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\Engine.cpp\"",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\Engine.cpp",
+  "output": "CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\Engine.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLM_ENABLE_EXPERIMENTAL -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLM/glm\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLFW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLEW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/src\" -g -std=gnu++17 -o CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\vec3.cpp.obj -c \"C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\vec3.cpp\"",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\vec3.cpp",
+  "output": "CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\vec3.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLM_ENABLE_EXPERIMENTAL -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLM/glm\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLFW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLEW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/src\" -g -std=gnu++17 -o CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\mat4.cpp.obj -c \"C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\mat4.cpp\"",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\mat4.cpp",
+  "output": "CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\mat4.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLM_ENABLE_EXPERIMENTAL -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLM/glm\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLFW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLEW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/src\" -g -std=gnu++17 -o CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\vec4.cpp.obj -c \"C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\vec4.cpp\"",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\vec4.cpp",
+  "output": "CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\vec4.cpp.obj"
+},
+{
+  "directory": "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/build",
+  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -DGLM_ENABLE_EXPERIMENTAL -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLM/glm\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLFW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/External Libraries/GLEW/include\" -I\"C:/Users/Phili/Desktop/AstroGenesis2.0PM/Render Programm/src\" -g -std=gnu++17 -o CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\DataManager.cpp.obj -c \"C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\DataManager.cpp\"",
+  "file": "C:\\Users\\Phili\\Desktop\\AstroGenesis2.0PM\\Render Programm\\src\\DataManager.cpp",
+  "output": "CMakeFiles\\AstroGenesis_Render_Programm.dir\\src\\DataManager.cpp.obj"
+}
+]

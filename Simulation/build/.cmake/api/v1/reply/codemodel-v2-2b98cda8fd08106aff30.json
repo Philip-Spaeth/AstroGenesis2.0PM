@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Astro_Genesis",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Astro_Genesis::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Astro_Genesis-Debug-eca96a63d250095663e6.json",
+					"name" : "Astro_Genesis",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "build-in-external-terminal::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-build-in-external-terminal-Debug-b32b3acfd132c16b8c59.json",
+					"name" : "build-in-external-terminal",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "clean-build::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-clean-build-Debug-5c78c327a7dd8a234953.json",
+					"name" : "clean-build",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation/build",
+		"source" : "C:/Users/Phili/Desktop/AstroGenesis2.0PM/Simulation"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

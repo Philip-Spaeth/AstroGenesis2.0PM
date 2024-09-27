@@ -1,0 +1,8 @@
+# ninja log v5
+26	2465	7488139829915930	CMakeFiles/AstroGenesis_Render_Programm.dir/src/vec4.cpp.obj	cadc300ec11ee122
+20	3394	7488139837647795	CMakeFiles/AstroGenesis_Render_Programm.dir/src/mat4.cpp.obj	e7833718aaa69a73
+15	3467	7488139839175908	CMakeFiles/AstroGenesis_Render_Programm.dir/src/vec3.cpp.obj	b958b061730f4950
+34	8189	7488139888739518	CMakeFiles/AstroGenesis_Render_Programm.dir/src/DataManager.cpp.obj	4379d4bd80fa536b
+9	9703	7488139903898241	CMakeFiles/AstroGenesis_Render_Programm.dir/src/Engine.cpp.obj	38062ad2365e4af6
+3	10082	7488139907647994	CMakeFiles/AstroGenesis_Render_Programm.dir/src/main.cpp.obj	1ea278cfa785ac85
+10084	11720	7488139921709512	AstroGenesis_Render_Programm.exe	d22c8a1eb9dcc61e
